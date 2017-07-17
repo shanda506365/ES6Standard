@@ -1,4 +1,4 @@
-# Airbnb React/JSX 编码规范
+#React/JSX 编码规范
 
 *算是最合理的React/JSX编码规范之一了*
 
